@@ -1,0 +1,83 @@
+
+h1
+{
+    font-family: 'Nova Flat', 'BioRhyme', serif;
+}
+
+.jumbotron 
+{
+    position: relative;
+    background: #FFFFFF url("https://image.ibb.co/dM1HgQ/beach.jpg") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+}
+.jumbotronImageSize
+{
+    height:450px;
+}
+.modal-header
+{
+    background-image: url("https://image.ibb.co/jcvzvk/blue.png");
+    height: 6em;
+}
+.modal-title
+{
+    font-family:'Open Sans'; 
+    color:white; 
+    padding-top:1em; 
+    font-weight:900;
+}
+.itemTopMargin
+{
+    margin-top:15px;
+}
+.input-group-addon
+{
+    width: 40px;
+}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+
+}
+.center-button
+{
+    display: inline-block;
+    text-align: center;
+}
+.dropdown-menu
+{
+    width:300px;
+    padding:5px 5px;
+}
+.small-header
+{
+    font-family:'Nova Flat';
+    font-size: 1.3em;  
+    padding-top:5px; 
+    font-weight:900;
+}
+.popover
+{
+    width: 300px;
+}
+hr
+{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding: 0px;
+}
+
+.g-recaptcha div 
+{ 
+    margin-left: auto; 
+    margin-right: auto; 
+}
+.g-recaptcha 
+{
+    transform-origin: center center;
+    -webkit-transform-origin: center center;
+    transform: scale(0.75);
+}
